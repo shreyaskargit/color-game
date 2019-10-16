@@ -1,3 +1,9 @@
+/*
+ -Rules
+ -This is a very simple and interesting game in which you just have to guess the next color of the box.
+ -You got this right?
+ -So lets play...
+*/
 var nos = 6;
 var colors = [];
 var pickedcolor;
